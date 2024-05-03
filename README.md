@@ -3,7 +3,7 @@
 # Microbusiness Density Prediction Model
 
 ## Overview
-This project involves a machine learning model designed to predict the density of microbusinesses in various geographic regions based on a set of features. The model leverages Principal Component Analysis (PCA) to reduce the dimensionality of the dataset while capturing the most significant variance in the data. This repository contains the necessary files and instructions to run the model demonstration through a Streamlit web application.
+This project involves a machine learning model designed to predict the density of microbusinesses in various geographic regions based on a set of features. The model leverages Principal Component Analysis (PCA) to reduce the dimensionality of the dataset while capturing the most significant variance in the data. This repository contains the necessary files and instructions to run the model demonstration through a Gradio web application.
 
 ## Project Goal
 The primary goal of this project is to provide stakeholders and interested parties with insights into factors influencing microbusiness densities, thereby aiding in decision-making processes related to economic development, urban planning, and resource allocation.
