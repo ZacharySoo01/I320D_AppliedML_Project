@@ -12,3 +12,10 @@ The primary goal of this project is to provide stakeholders and interested parti
 - **Data Preprocessing**: Incorporation of PCA for effective dimensionality reduction.
 - **Interactive Demo**: A Streamlit-based web interface allowing users to input features and receive predictions in real-time.
 - **Model Transparency**: Explanation of how PCA affects feature selection and impacts the model's predictions.
+
+# Notes for Running Demo
+There is no need to run the Microbusiness density notebook to be able to run the demo.
+All files needed to run the demo are in the demo folder.
+1. Download pickle files and new_train.csv
+2. Run the Demo notebook
+3. Input desired values
