@@ -1,4 +1,9 @@
 # I320D_AppliedML_Project
+Project by Gradient Boosted Boys <br>
+- Jose Torres
+- Zachary Soo
+- Bryce Harris
+- Sean Fu
 
 # Microbusiness Density Prediction Model
 
