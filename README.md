@@ -15,7 +15,7 @@ The primary goal of this project is to provide stakeholders and interested parti
 
 ## Features
 - **Data Preprocessing**: Incorporation of PCA for effective dimensionality reduction.
-- **Interactive Demo**: A Streamlit-based web interface allowing users to input features and receive predictions in real-time.
+- **Interactive Demo**: A Gradio-based web interface allowing users to input features and receive predictions in real-time.
 - **Model Transparency**: Explanation of how PCA affects feature selection and impacts the model's predictions.
 
 # Notes for Running Demo
